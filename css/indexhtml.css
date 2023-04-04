@@ -109,6 +109,10 @@
     float: left;
 }
 
+.space {
+    height: 5vh;
+}
+
 @keyframes animate {
 
     0%,
